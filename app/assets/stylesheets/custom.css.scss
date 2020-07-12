@@ -1,7 +1,7 @@
 @import 'bootstrap/dist/css/bootstrap';
 
 .navbar {
-  background-color: black !important;
+  background-color: grey !important;
 }
 
 .nav-link {
@@ -42,6 +42,7 @@ body {
 
 #sticky-footer {
   flex-shrink: none;
+  background-color: grey !important;
 }
 
 
